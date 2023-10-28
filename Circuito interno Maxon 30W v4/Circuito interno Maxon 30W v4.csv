@@ -1,0 +1,6 @@
+"Id";"Designador";"Footprint";"Quantidade";"Designação";"Fornecedor e referência";
+1;"IC1,IC3,IC2";"SOT-23";3;"a3144e";;;
+2;"L2,L3,L1";"L_Axial_L11.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_MECC";3;"L";;;
+3;"R3,R2,R1";"R_0805_2012Metric";3;"10k";;;
+4;"C1";"C_0805_2012Metric";1;"100n";;;
+5;"MOTOR1";"TE_1586037-8b";1;"CONECTOR MOTOR 1";;;
