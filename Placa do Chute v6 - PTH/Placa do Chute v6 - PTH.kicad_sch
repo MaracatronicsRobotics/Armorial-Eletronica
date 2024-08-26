@@ -1892,7 +1892,7 @@
   (symbol (lib_id "IRFP260N:IRFP260N") (at 128.778 52.324 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 26915a15-6278-4a05-927d-a62b410c38f9)
-    (property "Reference" "QChip_Kick3" (at 123.444 51.689 0)
+    (property "Reference" "Chip_KickQ3" (at 123.444 51.689 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "IRFP260N" (at 123.444 54.229 0)
@@ -1922,7 +1922,7 @@
     (instances
       (project "Placa do Chute v6 - PTH"
         (path "/1de9637d-97cd-4863-af99-42f1b5fd7dcb"
-          (reference "QChip_Kick3") (unit 1)
+          (reference "Chip_KickQ3") (unit 1)
         )
       )
     )
@@ -1931,7 +1931,7 @@
   (symbol (lib_id "IRFP260N:IRFP260N") (at 70.358 85.344 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2fe672d9-9575-4546-997e-8e44ce12e4b0)
-    (property "Reference" "QCarga1" (at 76.2 84.709 0)
+    (property "Reference" "CargaQ1" (at 76.2 84.709 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "IRFP260N" (at 76.2 87.249 0)
@@ -1961,7 +1961,7 @@
     (instances
       (project "Placa do Chute v6 - PTH"
         (path "/1de9637d-97cd-4863-af99-42f1b5fd7dcb"
-          (reference "QCarga1") (unit 1)
+          (reference "CargaQ1") (unit 1)
         )
       )
     )
@@ -2481,7 +2481,7 @@
   (symbol (lib_id "IRFP260N:IRFP260N") (at 128.524 96.52 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ecddffc-ad84-4756-956a-3390071c718e)
-    (property "Reference" "QChute2" (at 123.19 95.885 0)
+    (property "Reference" "ChuteQ2" (at 123.19 95.885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "IRFP260N" (at 123.19 98.425 0)
@@ -2511,7 +2511,7 @@
     (instances
       (project "Placa do Chute v6 - PTH"
         (path "/1de9637d-97cd-4863-af99-42f1b5fd7dcb"
-          (reference "QChute2") (unit 1)
+          (reference "ChuteQ2") (unit 1)
         )
       )
     )
